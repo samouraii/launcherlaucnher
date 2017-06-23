@@ -1,0 +1,17 @@
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\bin\Release\LauncherQangaClient.exe.config
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\bin\Release\LauncherQangaClient.exe
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\bin\Release\LauncherQangaClient.pdb
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Release\LauncherQangaClient.csprojResolveAssemblyReference.cache
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Release\MainWindow.g.cs
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Release\App.g.cs
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Release\LauncherQangaClient_MarkupCompile.cache
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Release\LauncherQangaClient_MarkupCompile.lref
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Release\MainWindow.baml
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Release\LauncherQangaClient.g.resources
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Release\LauncherQangaClient.Properties.Resources.resources
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Release\LauncherQangaClient.csproj.GenerateResource.Cache
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Release\LauncherQangaClient.exe
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\obj\Release\LauncherQangaClient.pdb
+C:\Users\adrie\OneDrive\Documents\Visual Studio 2015\Projects\LauncherQangaClient\LauncherQangaClient\bin\Release\ICSharpCode.SharpZipLib.dll

@@ -1,0 +1,33 @@
+﻿<Window x:Class="LauncherQangaClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LauncherQangaClient"
+        mc:Ignorable="d"
+        Title="Qanga -Mise à jour" Height="331.373" Width="635.784" Loaded="Window_Loaded" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" ScrollViewer.VerticalScrollBarVisibility="Disabled" WindowStyle="None" BorderBrush="#FFEE1212" Foreground="#FFF10505" OpacityMask="#FFDA0B0B">
+    <Window.Background>
+        <ImageBrush TileMode="Tile" ImageSource="index.jpg" Stretch="Uniform"/>
+    </Window.Background>
+    <Grid Margin="0,0,177,39">
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="425*"/>
+            <ColumnDefinition Width="78*"/>
+        </Grid.ColumnDefinitions>
+        <ProgressBar x:Name="progressabar1" HorizontalAlignment="Left" Height="13" Margin="175,312,-12,-33" VerticalAlignment="Top" Width="296" RenderTransformOrigin="0.5,0.5" Foreground="#FF062DB0" Grid.ColumnSpan="2">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="179.823"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+        <Label Content="v0.01" HorizontalAlignment="Left" Height="19" Margin="3,307,0,-34" VerticalAlignment="Top" Background="#00000000" Foreground="White" Width="51" FontSize="6"/>
+
+    </Grid>
+</Window>
